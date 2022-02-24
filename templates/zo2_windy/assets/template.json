@@ -1,0 +1,11 @@
+{
+    "name": "Windy",
+    "assets": {
+        "css": [
+        ],
+        "js": [
+        "zo2\/js\/template.js"        
+        ]
+        
+    }
+}

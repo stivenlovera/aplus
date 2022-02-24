@@ -1,0 +1,126 @@
+/* Here you can include your additional CSS Styles */
+#zo2-mega-menu .navbar-nav li a:hover,
+#zo2-mega-menu .navbar-nav li.current a {
+  color: #ef8a23;
+}
+#zo2-component .container .zt-tabs .nav-tabs li.active >a,
+#zo2-component .about-as-article .zt-tabs .nav-tabs li.active >a {
+  background-color: #ef8a23;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-family: Poppins;
+}
+.mod-menu-our-service {
+  border-radius: 3px;
+  margin-bottom: 30px;
+  padding: 10px 0px;
+  background-color: #ef8a23;
+}
+.mod-menu-our-service li >a {
+  padding: 14px;
+  color: #FFF;
+  font-family: "Roboto";
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+  display: block;
+  background-image: url('../../zo2/images/li-arrow-bg.png');
+  background-position: left 20px;
+  background-repeat: no-repeat;
+}
+.mod-menu-our-service li.active a {
+  color: #fbdfc3;
+}
+header#standard-logo {
+  padding-top: 0px;
+  width: 245px;
+}
+#zo2-energy-wrap .energy .customenergy .feature-image img {
+  margin: 0px auto;
+  height: 150px;
+}
+#zo2-energy-wrap .energy h3.moduletitle {
+  text-transform: none;
+  font-weight: 600;
+  font-size: 33px;
+}
+#zo2-footer-wrap {
+  background-color: #272e68;
+  padding: 20px 0px;
+  color: #fff;
+  font-family: "Roboto";
+}
+#zo2-end-footer-wrap {
+  background-color: #ef8a23;
+  line-height: 0px;
+}
+#gototop {
+  background-color: #272e68;
+  cursor: pointer;
+  display: none;
+  font-size: 25px;
+  height: 36px;
+  right: 24px;
+  line-height: 32px;
+  position: fixed;
+  text-align: center;
+  bottom: 31px;
+  width: 36px;
+  z-index: 999;
+}
+#zo2-header-wrap {
+  padding: 10px 0;
+}
+footer {
+  display: inline-block;
+  padding: 0 0;
+  width: 100%;
+  line-height: 42px;
+}
+.is-sticky #zo2-header-wrap {
+  background-color: #fff;
+  box-shadow: 0 3px 5px rgba(0,0,0,0.1);
+  max-width: none;
+  width: 100%;
+  padding: 5px 0;
+}
+#zo2-energy-wrap {
+  background-color: #fff;
+  padding: 10px 0px;
+}
+#zo2-footer-wrap h3.moduletitle:hover {
+  color: #fff;
+}
+#zo2-footer-wrap h3.moduletitle {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: left;
+  background-image: url('../../zo2/images/bg-footer-title.png');
+  background-position: left 35px;
+  background-repeat: no-repeat;
+  margin-bottom: 30px;
+  cursor: pointer;
+  transition: all 0.9s ease 0s;
+}
+#contact-form button {
+  background-color: #ef8a23;
+  border-radius: 3px;
+  padding: 15px 40px;
+  font-family: Poppins;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.readmore  a:hover,
+.readmore  a:active,
+.readmore  a:focus {
+  color: #ef8a23;
+}
+footer section {
+    text-align: center;
+}
+p {
+  margin: 10px 0;
+  line-height: 26px;
+}
